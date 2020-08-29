@@ -1,4 +1,7 @@
-function produceDrivingRange()
+function produceDrivingRange(range)
  return function (str1, str2){
-   st1
+   if (parseInt(str2)-parseInt(str1) < range){
+     return 
+   }
+    
  }
