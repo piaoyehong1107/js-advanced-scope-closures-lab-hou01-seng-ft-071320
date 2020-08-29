@@ -9,10 +9,9 @@ function produceDrivingRange(range){
     }
 }
 
-function produceTipCalculator(){
-  
-  
-  
-  
+function produceTipCalculator(rate){
+  return function(fare){
+    returnfare * rate
+  }
 }
 
