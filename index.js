@@ -11,7 +11,7 @@ function produceDrivingRange(range){
 
 function produceTipCalculator(rate){
   return function(fare){
-    returnfare * rate
+    return fare * rate
   }
 }
 
