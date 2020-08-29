@@ -15,3 +15,5 @@ function produceTipCalculator(rate){
   }
 }
 
+function create
+
