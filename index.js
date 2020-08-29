@@ -16,7 +16,7 @@ function produceTipCalculator(rate){
 }
 
 function createDriver(){
-  let 
+  let driverId=0
   class Driver{
     
   }
