@@ -21,7 +21,6 @@ function createDriver(){
     constructor(){
       this.id=++driverId;
     }
-    const Driver=createDriver();
 }
 }
 
