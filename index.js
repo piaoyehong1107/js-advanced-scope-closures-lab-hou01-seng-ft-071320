@@ -4,7 +4,7 @@ function produceDrivingRange(range){
      return `within range by ${range-(parseInt(str2)-parseInt(str1))}`
       }
      else if (parseInt(str2)-parseInt(str1) > range){
-     return ` ${(parseInt(str2)-parseInt(str1))-range} blocks out of range`
+     return `${(parseInt(str2)-parseInt(str1))-range} blocks out of range`
       }
     }
 }
