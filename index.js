@@ -8,5 +8,5 @@ function produceDrivingRange(range){
      return ` ${(parseInt(str2)-parseInt(str1))-range} blocks out of range`
       }
     }
-}
+  }
 }
