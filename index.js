@@ -22,7 +22,7 @@ function createDriver(){
       this.name=name;
       this.id=++driverId;
     }
-}
+  }
 }
     const Driver=createDriver();
 
